@@ -18,7 +18,7 @@
 ![](https://i.imgur.com/MSLj8xE.png)
 ---
 ## Perform image alignment and generate infinite zooming effect
-![image](https://i.imgur.com/ekqo5mJ.gifv)
+![image](https://github.com/TRKuan/cvfx-homework4/blob/master/IMG_4650.GIF)
 ## Implement different feature extrators
 
 ## Exploit creativity to add some image processing to enhance effect.
