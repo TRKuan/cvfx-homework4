@@ -18,7 +18,7 @@
 ![](https://i.imgur.com/MSLj8xE.png)
 ---
 ## Perform image alignment and generate infinite zooming effect
-![image](https://github.com/TRKuan/cvfx-homework4/blob/master/IMG_4650.GIF)
+![orb zooming](https://drive.google.com/file/d/1uPSiDFjltw8JP5owMxACCPlfbZHSYUJP/view?usp=sharing)
 ## Implement different feature extrators
 
 - xfeature2d SIFT
