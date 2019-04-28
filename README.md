@@ -18,7 +18,11 @@
 ![](https://i.imgur.com/MSLj8xE.png)
 ---
 ## Perform image alignment and generate infinite zooming effect
+### ORB
 ![orb zooming](output_orb.gif)
+### SIFT
+![sift zooming](output_sift.gif)
+![sift progress](sift_progress.png)
 ## Implement different feature extrators
 
 - xfeature2d SIFT
