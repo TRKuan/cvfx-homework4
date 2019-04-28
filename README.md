@@ -1,9 +1,7 @@
 # homework4
 
 ## Take a sequence of moving-forward images in NTHU campus.
-![](https://i.imgur.com/i4o2KWz.png)
-![](https://i.imgur.com/uZ1FSsq.png)
-![](https://i.imgur.com/DwayDPQ.png)
+![](https://i.imgur.com/GKYU4s2.png)
 ---
 ## Show feature extraction and matching results between two images
 
