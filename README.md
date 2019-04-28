@@ -20,7 +20,10 @@
 ## Perform image alignment and generate infinite zooming effect
 ![image](https://github.com/TRKuan/cvfx-homework4/blob/master/IMG_4650.GIF)
 ## Implement different feature extrators
-
+* xfeature2d SIFT
+![](https://i.imgur.com/4Dvda8I.png)
+* SURF
+![](https://i.imgur.com/mKIuI3l.png)
 ## Exploit creativity to add some image processing to enhance effect.
 
 
