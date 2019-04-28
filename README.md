@@ -18,7 +18,7 @@
 ![](https://i.imgur.com/MSLj8xE.png)
 ---
 ## Perform image alignment and generate infinite zooming effect
-![](https://i.imgur.com/ekqo5mJ.gifv)
+![image](https://i.imgur.com/ekqo5mJ.gifv)
 ## Implement different feature extrators
 
 ## Exploit creativity to add some image processing to enhance effect.
