@@ -25,13 +25,13 @@
 ### SURF
 ![surf zooming](output_surf.gif)
 ## Implement different feature extrators
--ORB
+### ORB
 ![orb progress](orb_progress.png)
 
-- xfeature2d SIFT
+### xfeature2d SIFT
 ![sift progress](sift_progress.png)
 
-- SURF
+### SURF
 ![surf progress](surf_progress.png)
 
 ![](https://i.imgur.com/mKIuI3l.png)
