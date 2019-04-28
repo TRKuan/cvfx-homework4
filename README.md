@@ -36,8 +36,9 @@
 
 ![](https://i.imgur.com/mKIuI3l.png)
 ## Exploit creativity to add some image processing to enhance effect.
-
-
+通常照片無法對的很剛好，容易將不相干的內容放在一起，因此照片的邊框非常明顯。為了消除邊框，這裡我們使用blur的技巧，將銳利的邊框消除。以下為套用之後的結果:
+![](output_blur.gif)  
+可以看到邊框基本上已經看不到了，但圖片本身也受到很大的影響。
 
 
 
