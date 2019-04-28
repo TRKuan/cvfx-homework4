@@ -18,9 +18,10 @@
 ![](https://i.imgur.com/MSLj8xE.png)
 ---
 ## Perform image alignment and generate infinite zooming effect
+![](https://i.imgur.com/ekqo5mJ.gifv)
+## Implement different feature extrators
 
-
-## exploit creativity to add some image processing to enhance effect. You can use photoshop to do some effects, such as bluring or coloring.
+## Exploit creativity to add some image processing to enhance effect.
 
 
 
